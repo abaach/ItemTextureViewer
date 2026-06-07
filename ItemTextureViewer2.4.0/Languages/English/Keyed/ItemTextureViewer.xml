@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ItemTextureViewer_SectionDisplay>═══ Display &amp; Layout ═══</ItemTextureViewer_SectionDisplay>
+  <ItemTextureViewer_SectionFeatures>═══ Features &amp; Shortcuts ═══</ItemTextureViewer_SectionFeatures>
+  <ItemTextureViewer_SettingsCategory>Item Texture Viewer</ItemTextureViewer_SettingsCategory>
+  <ItemTextureViewer_ButtonHorizOffset>T Button H-Offset: {0:F0}</ItemTextureViewer_ButtonHorizOffset>
+  <ItemTextureViewer_ButtonVertOffset>Vertical Offset: {0:F0}</ItemTextureViewer_ButtonVertOffset>
+  <ItemTextureViewer_PreviewLayout>Pawn Preview Window</ItemTextureViewer_PreviewLayout>
+  <ItemTextureViewer_AutoPawnPreview>Auto-open Preview Window</ItemTextureViewer_AutoPawnPreview>
+  <ItemTextureViewer_FollowInspectPane>Follow Inspect Pane</ItemTextureViewer_FollowInspectPane>
+  <ItemTextureViewer_PreviewAlignment>Alignment</ItemTextureViewer_PreviewAlignment>
+  <ItemTextureViewer_PreviewAlignmentLeft>Left</ItemTextureViewer_PreviewAlignmentLeft>
+  <ItemTextureViewer_PreviewAlignmentCenter>Center</ItemTextureViewer_PreviewAlignmentCenter>
+  <ItemTextureViewer_PreviewAlignmentRight>Right</ItemTextureViewer_PreviewAlignmentRight>
+  <ItemTextureViewer_PreviewHorizontalOffset>H-Offset: {0:F0}</ItemTextureViewer_PreviewHorizontalOffset>
+  <ItemTextureViewer_PreviewVerticalGap>V-Gap: {0:F0}</ItemTextureViewer_PreviewVerticalGap>
+  <ItemTextureViewer_PreviewPosX>X: {0:F0}</ItemTextureViewer_PreviewPosX>
+  <ItemTextureViewer_PreviewPosY>Y: {0:F0}</ItemTextureViewer_PreviewPosY>
+  <ItemTextureViewer_PreviewZoom>Preview Zoom: {0:F1}</ItemTextureViewer_PreviewZoom>
+  <ItemTextureViewer_PreviewRefresh>Refresh: {0:F1}s</ItemTextureViewer_PreviewRefresh>
+  <ItemTextureViewer_ShowPreviewDebug>Preview Debug Overlay</ItemTextureViewer_ShowPreviewDebug>
+  <ItemTextureViewer_PreviewShowHumans>Show Humans</ItemTextureViewer_PreviewShowHumans>
+  <ItemTextureViewer_PreviewShowAnimals>Show Animals</ItemTextureViewer_PreviewShowAnimals>
+  <ItemTextureViewer_PreviewShowOthers>Show Others</ItemTextureViewer_PreviewShowOthers>
+  <ItemTextureViewer_QuickViewLabel>Global Quick View Hotkey</ItemTextureViewer_QuickViewLabel>
+  <ItemTextureViewer_PressKeys>Press key combo (Ctrl/Shift/Alt allowed)...</ItemTextureViewer_PressKeys>
+  <ItemTextureViewer_NotSet>Not Set</ItemTextureViewer_NotSet>
+  <ItemTextureViewer_Reset>Reset to Default</ItemTextureViewer_Reset>
+  <ItemTextureViewer_ExportButton>Export (.png)</ItemTextureViewer_ExportButton>
+  <ItemTextureViewer_OpenExportFolder>Open Export Folder</ItemTextureViewer_OpenExportFolder>
+  <ItemTextureViewer_FullscreenHint>Zoom:{0:F2}x  ESC to close</ItemTextureViewer_FullscreenHint>
+  <ItemTextureViewer_NoTexture>No Texture</ItemTextureViewer_NoTexture>
+  <ItemTextureViewer_ExportSuccess>Texture Exported</ItemTextureViewer_ExportSuccess>
+  <ItemTextureViewer_ExportFailed>No Texture Available</ItemTextureViewer_ExportFailed>
+</LanguageData>

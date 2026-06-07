@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Item Texture Viewer</name>
+  <author>Redbean</author>
+  <packageId>my.item.viewer</packageId>
+  <description>一键查看物品和角色的高清贴图，支持全屏预览、角色旋转、实时浮动窗口和贴图导出。\n\nView high-res textures of items and pawns, with fullscreen preview, pawn rotation, real-time floating window, and PNG export.</description>
+  <supportedVersions><li>1.6</li></supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter><li>brrainz.harmony</li></loadAfter>
+  <modVersion>2.4.0</modVersion>
+</ModMetaData>

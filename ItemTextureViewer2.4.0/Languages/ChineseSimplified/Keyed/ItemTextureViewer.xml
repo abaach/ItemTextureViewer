@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <ItemTextureViewer_SectionDisplay>═══ 显示与布局 ═══</ItemTextureViewer_SectionDisplay>
+  <ItemTextureViewer_SectionFeatures>═══ 功能与快捷键 ═══</ItemTextureViewer_SectionFeatures>
+  <ItemTextureViewer_SettingsCategory>Item Texture Viewer</ItemTextureViewer_SettingsCategory>
+  <ItemTextureViewer_ButtonHorizOffset>T按钮水平偏移: {0:F0}</ItemTextureViewer_ButtonHorizOffset>
+  <ItemTextureViewer_ButtonVertOffset>垂直偏移: {0:F0}</ItemTextureViewer_ButtonVertOffset>
+  <ItemTextureViewer_PreviewLayout>角色实时预览窗口</ItemTextureViewer_PreviewLayout>
+  <ItemTextureViewer_AutoPawnPreview>自动显示预览窗口</ItemTextureViewer_AutoPawnPreview>
+  <ItemTextureViewer_FollowInspectPane>跟随详情窗口</ItemTextureViewer_FollowInspectPane>
+  <ItemTextureViewer_PreviewAlignment>对齐方式</ItemTextureViewer_PreviewAlignment>
+  <ItemTextureViewer_PreviewAlignmentLeft>左对齐</ItemTextureViewer_PreviewAlignmentLeft>
+  <ItemTextureViewer_PreviewAlignmentCenter>居中</ItemTextureViewer_PreviewAlignmentCenter>
+  <ItemTextureViewer_PreviewAlignmentRight>右对齐</ItemTextureViewer_PreviewAlignmentRight>
+  <ItemTextureViewer_PreviewHorizontalOffset>水平偏移: {0:F0}</ItemTextureViewer_PreviewHorizontalOffset>
+  <ItemTextureViewer_PreviewVerticalGap>垂直间距: {0:F0}</ItemTextureViewer_PreviewVerticalGap>
+  <ItemTextureViewer_PreviewPosX>X: {0:F0}</ItemTextureViewer_PreviewPosX>
+  <ItemTextureViewer_PreviewPosY>Y: {0:F0}</ItemTextureViewer_PreviewPosY>
+  <ItemTextureViewer_PreviewZoom>预览缩放: {0:F1}</ItemTextureViewer_PreviewZoom>
+  <ItemTextureViewer_PreviewRefresh>刷新间隔: {0:F1}秒</ItemTextureViewer_PreviewRefresh>
+  <ItemTextureViewer_ShowPreviewDebug>预览窗口调试红框</ItemTextureViewer_ShowPreviewDebug>
+  <ItemTextureViewer_PreviewShowHumans>显示人类</ItemTextureViewer_PreviewShowHumans>
+  <ItemTextureViewer_PreviewShowAnimals>显示动物</ItemTextureViewer_PreviewShowAnimals>
+  <ItemTextureViewer_PreviewShowOthers>显示其他</ItemTextureViewer_PreviewShowOthers>
+  <ItemTextureViewer_QuickViewLabel>全局快速查看快捷键</ItemTextureViewer_QuickViewLabel>
+  <ItemTextureViewer_PressKeys>按下组合键 (可含Ctrl/Shift/Alt)...</ItemTextureViewer_PressKeys>
+  <ItemTextureViewer_NotSet>未设置</ItemTextureViewer_NotSet>
+  <ItemTextureViewer_Reset>恢复默认设置</ItemTextureViewer_Reset>
+  <ItemTextureViewer_ExportButton>导出(.png)</ItemTextureViewer_ExportButton>
+  <ItemTextureViewer_OpenExportFolder>打开导出文件夹</ItemTextureViewer_OpenExportFolder>
+  <ItemTextureViewer_FullscreenHint>缩放:{0:F2}x  ESC关闭</ItemTextureViewer_FullscreenHint>
+  <ItemTextureViewer_NoTexture>无贴图</ItemTextureViewer_NoTexture>
+  <ItemTextureViewer_ExportSuccess>贴图已导出</ItemTextureViewer_ExportSuccess>
+  <ItemTextureViewer_ExportFailed>无可用贴图</ItemTextureViewer_ExportFailed>
+</LanguageData>
